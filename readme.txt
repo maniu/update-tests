@@ -1,7 +1,7 @@
 === CampusPress Flex ===
 Contributors: CampusPress Team
 Tested up to: 5.3
-Stable tag: 1.0
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,15 +11,14 @@ New, flexible theme from CampusPress for accessible, fast, and an easy-to-naviga
 
 == Changelog ==
 
-= 1.1 =
-* Released: May 13, 2020
+= 1.2 =
+* Update Test 2
 
-Update Test
+= 1.1 =
+* Update Test
 
 = 1.0 =
-* Released: May 12, 2020
-
-Initial release
+* Initial release
 
 == Copyright ==
 
