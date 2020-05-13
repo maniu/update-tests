@@ -1,3 +1,6 @@
+= 1.4 =
+* Update Test 4
+
 = 1.3 =
 * Update Test 3
 

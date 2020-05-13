@@ -11,6 +11,9 @@ New, flexible theme from CampusPress for accessible, fast, and an easy-to-naviga
 
 == Changelog ==
 
+= 1.4 =
+* Update Test 4
+
 = 1.3 =
 * Update Test 3
 
