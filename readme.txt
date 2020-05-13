@@ -1,7 +1,7 @@
 === CampusPress Flex ===
 Contributors: CampusPress Team
 Tested up to: 5.3
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -10,6 +10,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 New, flexible theme from CampusPress for accessible, fast, and an easy-to-navigate site. Perfect for your new school, district, or department.
 
 == Changelog ==
+
+= 1.3 =
+* Update Test 3
 
 = 1.2 =
 * Update Test 2

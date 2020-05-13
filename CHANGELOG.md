@@ -1,9 +1,11 @@
-= 1.1 =
-* Released: May 13, 2020
+= 1.3 =
+* Update Test 3
 
-Update Test
+= 1.2 =
+* Update Test 2
+
+= 1.1 =
+* Update Test
 
 = 1.0 =
-* Released: May 12, 2020
-
-Initial release
+* Initial release
